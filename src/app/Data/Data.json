@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Relógio Elegante",
+      "price": 50.99,
+      "image": "https://images.pexels.com/photos/2872702/pexels-photo-2872702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id": 2,
+      "name": "Câmera Vintage",
+      "price": 85.5,
+      "image": "https://images.pexels.com/photos/1533726/pexels-photo-1533726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id": 3,
+      "name": "Fones de Ouvido",
+      "price": 35.99,
+      "image": "https://images.pexels.com/photos/2325144/pexels-photo-2325144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id": 4,
+      "name": "Tênis de Corrida",
+      "price": 120.0,
+      "image": "https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id": 5,
+      "name": "Smartphone",
+      "price": 299.99,
+      "image": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUyMzN8MHwxfGFsbHwxfHx8fHx8fHwxNjcwMzM2Mzc2&ixlib=rb-1.2.1&q=80&w=1080"
+    },
+    {
+      "id": 6,
+      "name": "Livro de Aventura",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzUyMzN8MHwxfGFsbHwxfHx8fHx8fHwxNjcwMzM2Mzc2&ixlib=rb-1.2.1&q=80&w=1080"
+    }
+  ]
